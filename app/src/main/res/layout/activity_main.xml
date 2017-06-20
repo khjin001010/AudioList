@@ -36,7 +36,12 @@
             android:id="@+id/but_stop"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="stop"/>
+            android:text="Stop"/>
+        <Button
+            android:id="@+id/but_suspend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pause"/>
         </LinearLayout>
 
     <LinearLayout
